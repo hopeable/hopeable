@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hopeable
-- 👀 I’m interested in Encoders 
-- 🌱 I’m currently learning how To Download From OTT
-- 💞️ I’m looking to collaborate on OTT DOWNLOADER 
+- 👀 I’m interested in AUTOMATION
+- 🌱 I’m currently learning BUILD AUTO SCRIPTS
+- 💞️ I’m looking to UI
 - 📫 How to reach me ... TELEGRAM @HOPEABLE 
 
 <!---
